@@ -1,5 +1,5 @@
 # forecast
-LinearRegression, least error squares로 예측 모델 생성
+LinearRegression, least error squares로 모델 생성, 예측
 
 # 요구사항
 - python3.x
