@@ -19,7 +19,7 @@ LinearRegression, least error squares로 모델 생성, 예측
 - 기울기 : 1.3588707310724364, 편향 : 176.00403749216213
 - 예측 : 218.12903016, 219.48790089, 220.84677162, ...
 
-# least error squares
+# Least Square Method
 ## 개요
 - 최소 오차 제곱법
 - 참조 : https://darkpgmr.tistory.com/56
