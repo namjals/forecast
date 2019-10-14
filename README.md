@@ -21,7 +21,7 @@ LinearRegression, least error squares로 모델 생성, 예측
 
 # Least Square Method
 ## 개요
-- 최소 오차 제곱법
+- 최소 자승법
 - 참조 : https://darkpgmr.tistory.com/56
 ## 결과
 - 기울기 : 1.35884316, 편향 : 176.0045977
